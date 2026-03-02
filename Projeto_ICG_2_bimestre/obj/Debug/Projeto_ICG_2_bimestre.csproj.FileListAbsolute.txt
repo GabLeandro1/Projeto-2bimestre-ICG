@@ -1,0 +1,40 @@
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.exe.config
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.exe
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.pdb
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.Form1.resources
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.Properties.Resources.resources
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.exe
+C:\Users\gabri\source\repos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.pdb
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.exe.config
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.exe
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.pdb
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csprojAssemblyReference.cache
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.Form1.resources
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.Properties.Resources.resources
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csproj.GenerateResource.cache
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csproj.CoreCompileInputs.cache
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.exe
+D:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.pdb
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.exe.config
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.exe
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.pdb
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csprojAssemblyReference.cache
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.Form1.resources
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.Properties.Resources.resources
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csproj.GenerateResource.cache
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csproj.CoreCompileInputs.cache
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.exe
+E:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.pdb
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.exe.config
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.exe
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\bin\Debug\Projeto_ICG_2_bimestre.pdb
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csprojAssemblyReference.cache
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.Form1.resources
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.Properties.Resources.resources
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csproj.GenerateResource.cache
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.csproj.CoreCompileInputs.cache
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.exe
+F:\3º ano - E.M\I.C.G\Projetos\Projeto_ICG_2_bimestre\Projeto_ICG_2_bimestre\obj\Debug\Projeto_ICG_2_bimestre.pdb
